@@ -1,0 +1,16 @@
+{
+  "name": "PWA Starter",
+  "short_name": "PWA Starter",
+  "start_url": "index.html?homescreen=1",
+  "display": "standalone",
+  "background_color": "#EEEEEE",
+  "description": "Plain Progressive Web Apps starter",
+  "theme_color": "#5BBA8B",
+  "scope": "/",
+  "orientation": "portrait",
+  "icons": [{
+    "src": "images/logo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }]
+}
